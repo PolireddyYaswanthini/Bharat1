@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Portfolio</title>
+</head>
+<body >
+    <div class="main">
+        <div class="navbar">
+            <ul>
+                <li><a href="#hero">HOME</a></li>
+                <li><a href="#services">SKILLS</a></li>
+                <li><a href="#projects">PROJECTS</a></li>
+                <li><a href="#contact">CONTACT</a></li>
+            </ul>
+        </div>
+
+    
+    <section id="hero" class="hero-section">
+        <div class="d">
+            <div class="d1">
+        <h3 style="margin-right: 310px;">Hi , I'm<span> Yashwanthini</span></h3>
+        <h1 style="margin-right: 40px;margin-left: 80px;"><span>W</span>EB <span>D</span>EVELOPER & <span>D</span>ESIGNER</h1>
+        <h3 style="margin-left: 180px;">This is my official portfolio website to showcase my all works related to <br>
+         web developing and designing.</h3>
+        <br>
+        <button style="font-size:20px;margin-right: 350px;background-color: rgb(230,104,59);">Hire Me</button>
+        </div>
+        <div class="image">
+        <img src="C:\Users\YASHWANTHINI\OneDrive\Bharat intern\portofoliogirlpic.png" style="margin-bottom: 0px;">
+    </div>
+    </section>
+
+    <section id="services" class="services-section">
+        <h2>SKILLS</h2>
+        <div class="services">
+            <div class="service">
+                <img src="https://img.freepik.com/free-vector/modern-hand-drawn-web-design-concept_23-2147935218.jpg?size=626&ext=jpg&ga=GA1.2.1483313089.1682341008&semt=ais" width="300px" height="250px">
+                <h1>Web Design</h1>
+                <p>I use html css and java script for designing the web pages. Currently learning java script and React.</p>
+            </div>
+            <div class="service">
+                <img src="https://image.shutterstock.com/image-vector/computer-laptop-program-code-development-260nw-2271041107.jpg" width="300px"height="250px">
+                <h1>Programming Language</h1>
+            <p>I know python ,c and java.I am little bit good at advanced java. I have done some projects using python.</p>
+            </div>
+            <div class="service">
+                <img src="https://img.freepik.com/premium-vector/skills-icon-with-settings-sign-skills-icon-customize-setup-manage-process-symbol-vector-icon_775815-966.jpg?size=626&ext=jpg&ga=GA1.1.1483313089.1682341008&semt=ais" width="300px" height="250px">
+            <h1>Soft skills</h1>
+            <p>I am good at logical thinking,problem solving,Communication skills,Creativity,Time Management,project Management</p>
+                  </div>
+            <div class="service">
+                <img src="https://img.freepik.com/premium-photo/code-ethics-notebook-wood-table-idea-presentation-analyze-plans_301012-3749.jpg?size=626&ext=jpg&ga=GA1.1.1483313089.1682341008&semt=ais" width="300px" height="250px">
+                <h1>Ethical awareness</h1>
+                <p>Ethical awareness helps in identifying potential risks and taking preventive measures.
+</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="projects-section">
+        <h2>Projects</h2>
+        <div class="project">
+            <img src="https://5.imimg.com/data5/DF/CC/UK/ANDROID-37169537/product-jpeg-500x500.jpg" width="500px" height="950px"  alt="Project 1">
+            <h3>Library Management System</h3>
+        </div>
+        <div class="project">
+            <img src="C:\Users\YASHWANTHINI\Desktop\online-mobile-education-learning-platforms-vector.jpg"width="500px" height="250px" alt="Project 2">
+            
+            <h3>Online Learning platform</h3>
+        </div>
+        <!-- Add more project divs as needed -->
+    </section>
+     <div class="l">
+    <section id="contact" class="contact-section">
+        <h2>Contact</h2>
+        <p>Email: polireddyash123@gmail.com</p>
+        <p>Phone: +123 456 7890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Yashwanthini. All rights reserved.</p>
+    </footer>
+</div>
+</body>
+</html>

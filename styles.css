@@ -1,0 +1,239 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background: url('https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-abstract-memphis-playful-portfolio-pink-image_593418.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    font-family: sans-serif;
+}
+.d1{
+    margin-left:7%;
+    margin-top: 6%;
+
+}
+.d1 h1{
+    font-size: 65px;
+    color:rgb(36,32,30);
+}
+.d1 h3{
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+.navbar{
+    width:86%;
+    display: flex;
+    margin:auto;
+    padding: 65px 0;
+    margin-left: 800px;
+    align-items: center;
+    justify-content: space-between ;
+}
+ul{
+    margin-top: -4%;
+}
+.girl{
+    width:30%;
+    height: 60%;
+    position: absolute;
+    right: 100px;
+    bottom: 0;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px 26px;
+}
+ul li a:hover{
+    color:rgb(36,32,30);
+}
+button{
+    text-decoration: none;
+    color:#fff;
+    background: rgb(36,32,30);
+    margin: 26px 0;
+    padding: 10px 18px;
+    border-radius: 10px;
+    display: inline-block;
+    transition: -4s ease;
+}
+button:hover{
+    background: lightgreen;
+}
+ul li a{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(290,104,59);
+    margin-top: -3%;
+}
+ul li a:hover{
+    color:black;
+}
+.d1 span{
+    color:rgb(230,104,59);
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+   
+   font-family: sans-serif;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.menu li {
+    display: inline;
+    margin: 0 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+
+.hero-section {
+    
+    
+    text-align: center;
+}
+
+.hero-section h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    text-emphasis-color: white;
+}
+
+.hero-section p {
+    font-size: 18px;
+    color: #666;
+
+}
+
+.services-section {
+    background-color: #fff;
+    padding: 90px 0;
+    text-align: center;
+    width: 100%;
+    background: url('https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-abstract-memphis-playful-portfolio-pink-image_593418.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    font-family: sans-serif;
+}
+
+.services h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.services {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.service {
+    flex:1;
+    padding: 20px;
+    box-sizing: border-box;
+    
+    
+    margin: 10px;
+}
+
+.projects-section {
+    background-color: #f0f0f0;
+    padding: 60px 0;
+    text-align: center;
+    width: 100%;
+    background: url('https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-abstract-memphis-playful-portfolio-pink-image_593418.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    font-family: sans-serif;
+}
+
+.projects h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.project {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+}
+
+.contact-section {
+    
+    color: black;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    width: 100%;
+    background: url('https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-abstract-memphis-playful-portfolio-pink-image_593418.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    font-family: sans-serif;
+}
+
+footer {
+    
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+
+}
+.d{
+    display: flex;
+    justify-content: space-between;
+}
+.l{
+
+    background: url('https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-abstract-memphis-playful-portfolio-pink-image_593418.jpg');
+    background-position: center;
+    background-size: cover;
+    
+    position: relative;
+    font-family: sans-serif;
+}
