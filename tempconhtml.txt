@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- ... (your head content) ... -->
+    <link rel="stylesheet" href="stylet.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Temperature Converter</h1>
+        <div class="input-group">
+            <label for="celsius" style="font-size:26px;font-style: bold;">Celsius</label>
+            <input type="number" id="celsius" placeholder="Enter temperature in Celsius">
+            <button id="convertCtoF" style="margin-top: 8px;">Convert</button>
+            <p>Fahrenheit: <span id="fahrenheitResult"></span></p>
+        </div>
+        <div class="input-group">
+            <label for="fahrenheit" style="font-size:26px;font-style: bold;">Fahrenheit</label>
+            <input type="number" id="fahrenheit" placeholder="Enter temperature in Fahrenheit">
+            <button id="convertFtoC" style="margin-top:8px;">Convert</button>
+            <p>Celsius: <span id="celsiusResult"></span></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
